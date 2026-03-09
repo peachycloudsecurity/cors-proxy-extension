@@ -1,6 +1,6 @@
 # CORS Proxy Extension
 
-Minimal browser extension that proxies fetch requests blocked by CORS. Designed for the [Exposed Files Scanner](https://github.com/peachycloudsecurity/exposed-files-scanner) but works as a standalone extension for any page on allowed origins.
+Minimal browser extension that proxies fetch requests blocked by CORS. Designed for the [Exposed Files Scanner](https://peachycloudsecurity.com/apps/exposed-files-scanner) but works as a standalone extension for any page on allowed origins.
 
 ## Why
 
